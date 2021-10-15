@@ -22,5 +22,7 @@ namespace Week6Test.Core.Models
 
         [DataMember]
         public decimal Price { get; set; }
+
+        public Client Client { get; set; }
     }
 }

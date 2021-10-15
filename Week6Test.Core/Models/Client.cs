@@ -19,5 +19,7 @@ namespace Week6Test.Core.Models
 
         [DataMember]
         public string Cognome { get; set; }
+
+        public List<Order> Orders { get; set; }
     }
 }
