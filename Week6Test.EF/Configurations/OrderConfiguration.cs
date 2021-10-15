@@ -5,7 +5,7 @@ using Week6Test.EF;
 
 namespace Week6Test.EF.Configurations
 {
-    internal class OrderConfiguration : IEntityTypeConfiguration<Order>
+    public class OrderConfiguration : IEntityTypeConfiguration<Order>
     {
         public void Configure(EntityTypeBuilder<Order> builder)
         {

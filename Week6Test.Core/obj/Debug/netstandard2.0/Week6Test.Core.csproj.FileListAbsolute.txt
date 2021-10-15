@@ -1,0 +1,10 @@
+C:\Users\g.nobile\source\repos\Week6Test\Week6Test.Core\bin\Debug\netstandard2.0\Week6Test.Core.deps.json
+C:\Users\g.nobile\source\repos\Week6Test\Week6Test.Core\bin\Debug\netstandard2.0\Week6Test.Core.dll
+C:\Users\g.nobile\source\repos\Week6Test\Week6Test.Core\bin\Debug\netstandard2.0\Week6Test.Core.pdb
+C:\Users\g.nobile\source\repos\Week6Test\Week6Test.Core\obj\Debug\netstandard2.0\Week6Test.Core.csproj.AssemblyReference.cache
+C:\Users\g.nobile\source\repos\Week6Test\Week6Test.Core\obj\Debug\netstandard2.0\Week6Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.nobile\source\repos\Week6Test\Week6Test.Core\obj\Debug\netstandard2.0\Week6Test.Core.AssemblyInfoInputs.cache
+C:\Users\g.nobile\source\repos\Week6Test\Week6Test.Core\obj\Debug\netstandard2.0\Week6Test.Core.AssemblyInfo.cs
+C:\Users\g.nobile\source\repos\Week6Test\Week6Test.Core\obj\Debug\netstandard2.0\Week6Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\g.nobile\source\repos\Week6Test\Week6Test.Core\obj\Debug\netstandard2.0\Week6Test.Core.dll
+C:\Users\g.nobile\source\repos\Week6Test\Week6Test.Core\obj\Debug\netstandard2.0\Week6Test.Core.pdb
