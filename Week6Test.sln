@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week6Test.EF", "Week6Test.E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week6Test.WebAPI", "Week6Test.WebAPI\Week6Test.WebAPI.csproj", "{A9A05003-F224-4DDB-B480-7B6AE3ED1834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week6Test.WCF", "Week6Test.WCF\Week6Test.WCF.csproj", "{EA6E82D0-A718-4192-9F28-B67479AE1E9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A9A05003-F224-4DDB-B480-7B6AE3ED1834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9A05003-F224-4DDB-B480-7B6AE3ED1834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9A05003-F224-4DDB-B480-7B6AE3ED1834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6E82D0-A718-4192-9F28-B67479AE1E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6E82D0-A718-4192-9F28-B67479AE1E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6E82D0-A718-4192-9F28-B67479AE1E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6E82D0-A718-4192-9F28-B67479AE1E9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

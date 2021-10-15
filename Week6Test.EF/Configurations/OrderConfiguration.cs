@@ -24,10 +24,6 @@ namespace Week6Test.EF.Configurations
 
             builder.Property(o => o.Price)
                 .IsRequired();
-
-            builder.HasOne(o => o.Client)
-                .WithMany(c => c.Orders)
-                .HasForeignKey(o => o.Client);
         }
     }
 }
