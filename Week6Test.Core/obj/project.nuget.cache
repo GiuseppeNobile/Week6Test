@@ -1,11 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "gljLqv1GvISl40gO/Ux6hbyY8DxROZeCCOmb8SAgNQFquGvah9x3DMbtngjeu4uyrVX5mOiu8yD03GSFUm7Syw==",
+  "dgSpecHash": "0V/VH2gadTeRqEvHl2h8/+MXxlfJrWfxBHJLvXU5JmGo5aFVapKYgNogvvhicq5GrbYvj31UhCibPIUSYLgYIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\g.nobile\\source\\repos\\Week6Test\\Week6Test.Core\\Week6Test.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\g.nobile\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\g.nobile\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\g.nobile\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\ninject\\3.3.4\\ninject.3.3.4.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

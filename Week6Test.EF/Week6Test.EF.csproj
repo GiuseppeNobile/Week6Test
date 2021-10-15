@@ -21,8 +21,4 @@
     <ProjectReference Include="..\Week6Test.Core\Week6Test.Core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>
