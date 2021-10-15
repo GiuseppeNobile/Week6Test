@@ -65,22 +65,39 @@ namespace Week6Test.Core.BusinessLayers
         #region Orders
         public bool CreateOrder(Order newOrder)
         {
-            throw new NotImplementedException();
+            if (newOrder == null)
+                return false;
+
+            return orderRepo.Add(newOrder);
         }
 
         public bool DeleteOrderById(int id)
         {
-            throw new NotImplementedException();
+            if (id <= 0)
+                return false;
+
+            Order orderToBeDeleted = this.orderRepo.GetOrderByID(id);
+
+            if (orderToBeDeleted != null)
+                return orderRepo.Delete(orderToBeDeleted);
+
+            return false;
         }
 
         public Order FetchOrderById(int id)
         {
-            throw new NotImplementedException();
+            if (id <= 0)
+                return null;
+
+            return orderRepo.GetOrderByID(id);
         }
 
         public IEnumerable<Order> FetchOrders(Func<Order, bool> filter = null)
         {
-            throw new NotImplementedException();
+            if (filter != null)
+                return orderRepo.Fetch().Where(filter);
+
+            return orderRepo.Fetch();
         }
         #endregion
     }
