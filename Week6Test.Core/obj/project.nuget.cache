@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gljLqv1GvISl40gO/Ux6hbyY8DxROZeCCOmb8SAgNQFquGvah9x3DMbtngjeu4uyrVX5mOiu8yD03GSFUm7Syw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\g.nobile\\source\\repos\\Week6Test\\Week6Test.Core\\Week6Test.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g.nobile\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\g.nobile\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
